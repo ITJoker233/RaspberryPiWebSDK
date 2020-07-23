@@ -26,5 +26,6 @@ sudo python3 run.py
 
 ### 📜查看RaspberryPiWebSDK文档
 ```
+http://树莓派IP/docs
 ```
 
