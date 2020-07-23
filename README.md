@@ -1,5 +1,7 @@
 # 🍕RaspberryPiWebSDK
-> 树莓派 WebSDK，简易，快速 python3.6+
+> 树莓派 WebSDK，简易，快速 ，安全 python3.6+
+
+> 在一定程度上参考了webiopi的优点，尚未完成...还在开发
 
 ## 📌用法
 
